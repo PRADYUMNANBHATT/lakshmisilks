@@ -1,0 +1,180 @@
+{
+  "blog_data": {
+    "Blogs": [
+      {
+        "id": "1",
+        "Name": "BRIDEL COLLECTION",
+        "heading": "A bride is like a blooming flower,",
+        "Image_url": "blog_1.jpg",
+        "discription": "Every wedding comes with a bundle of emotions, be it love, happiness or sentiment. Embrace the journey of love and commitment with our handpicked selection of bridel collection. These words weave a tapestry of emotions, painting the bride not just as a vision in that stunning wedding dress, but as a soul ablaze with dreams, love, and anticipation. These bride to be wear will leave you teary-eyed but with a smile on your face. Here are bridel collection for brides!",
+        "date": "20-112023"
+      },
+      {
+        "id": "2",
+        "Name": "DESIGNER WEAR",
+        "heading": "Style is a way to say who you are without having to speak",
+        "Image_url": "blog_2.jpg",
+        "discription": "Everyday life is infused with fashion, which is constantly evolving to suit various occasions. Even the impending change in clothing is visible. Clothes allow you to see and feel everything.Avoid following trends. Don't let fashion define who you are or what you wish to convey; instead, use your appearance and lifestyle choices to reflect who you are.",
+        "date": "20-112023"
+      },
+      {
+        "id": "3",
+        "Name": "TRADITIONAL WEAR",
+        "heading": "I never felt so Indian before. Maybe because of this traditional dress.",
+        "Image_url": "blog_3.jpg",
+        "discription": "Reverting to your culture and being authentic can be a wonderful thing at times.Traditional styles and looks are timeless and never go out of style.Wearing your traditional attire with pride is a great way to show your patriotism.I feel more at ease in the traditional attire than in jeans and tees. It's not outdated; rather, you simply don't know where your contemporary clothing originated.Sometimes a classic appearance combined with simplicity can be beautiful. Well, the newest fashion trend these days is classic. I've never felt more Indian. Perhaps as a result of this cultural attire the realisation that you don't need a lot to look beautiful. I'm not what I look. It's the classic, conventional style",
+        "date": "20-112023"
+      },
+      {
+        "id": "4",
+        "Name": "PARTY WEAR",
+        "heading": "When it comes to formal events, selecting the perfect outfit is just one part of the equation.",
+        "Image_url": "blog_4.jpg",
+        "discription": "Choosing the ideal attire for formal occasions is only one aspect of the issue. The appropriate accessories, such as captions to match your formal attire, may really create an impression. Whether you're dressing for a black-tie event, a wedding, or a gala, captions can elevate your look even further.",
+        "date": "20-112023"
+      },
+      {
+        "id": "5",
+        "Name": "Styling For Kids",
+        "heading": "Style Clothing for juniors ",
+        "Image_url": "blog_5.jpg",
+        "discription": "Clothing for your  little sunshine.Make your child’s wardrobe brighter with us. We work with excellence Give your baby a stylish look ",
+        "date": "20-112023"
+      }
+    ],
+    "category_data": [
+      {
+        "id": "1",
+        "category_name": "silks-saree",
+        "name": "silks saree",
+        "category_image_1": "LS_PNG_06.png",
+        "category_image_2": "ct_2.png",
+        "category_image_3": "ct_3.png",
+        "category_image_4": "ct_1.png",
+        "category_discription": "The silk sarees are known for their lustrous beauty and incomparable variety of designs and colors. These sarees are known to be the traditional bridal wearfor most of the Indian brides. No wedding is complete without the silks sarees made of pure silk.",
+        "category_discription_two": "Lakshmi silks provide one of the best combo available on market at an affordable price.It will be an outstanding shopping experiance for all age group",
+        "bg": "background.jpg",
+        "bg_1": "ct_bg_1.jpg",
+        "bg_2": "ct_bg_2.jpg",
+        "bg_3": "bge3.jpg",
+        "bg_4": "bge4.jpg",
+        "clr_1": "#9a2a0c",
+        "clr_2": "#f45e5a",
+        "clr_3": "#fc4f6b",
+        "clr_4": "#b11c49",
+        "pclr": "black",
+        "bg_clr_1": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(151,135,234,1) 35%)",
+        "bg_clr_2": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,222,135,1) 35%)",
+        "bg_clr_3": "radial-gradient(circle, rgba(238,238,238,1) 3%, rgba(210,148,219,1) 100%)",
+        "bg_clr_4": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(35,234,232,1) 35%)"
+      },
+      {
+        "id": "2",
+        "category_name": "party-wear",
+        "name": "PARTY WEAR",
+        "category_image_1": "LS_PNG_08.png",
+        "category_image_2": "LS_PNG_02.png",
+        "category_image_3": "LS_PNG_03.png",
+        "category_image_4": "ct_3.png",
+        "category_discription": "Choosing the ideal attire for formal occasions is only one aspect of the issue. The appropriate accessories, such as captions to match your formal attire, may really create an impression. Whether you're dressing for a black-tie event, a wedding, or a gala, captions can elevate your look even further.",
+        "category_discription_two": "Lakshmi silks provide one of the best combo available on market at an affordable price.It will be an outstanding shopping experiance for all age group",
+        "bg": "background.jpg",
+        "bg_1": "ct_bg_1.jpg",
+        "bg_2": "ct_bg_2.jpg",
+        "bg_3": "bge3.jpg",
+        "bg_4": "bge4.jpg",
+        "clr_1": "grey",
+        "clr_2": "#b66874",
+        "clr_3": "#a5cad7",
+        "clr_4": "#be3731",
+        "pclr": "black",
+        "bg_clr_1": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(151,135,234,1) 35%)",
+        "bg_clr_2": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,222,135,1) 35%)",
+        "bg_clr_3": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,135,160,1) 35%)",
+        "bg_clr_4": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(235,134,32,1) 35%)"
+      },
+      {
+        "id": "3",
+        "category_name": "designer-saree",
+        "name": "designer saree",
+        "category_image_1": "LS_PNG_01.png",
+        "category_image_2": "LS_PNG_02.png",
+        "category_image_3": "LS_PNG_05.png",
+        "category_image_4": "LS_PNG_04.png",
+        "category_discription": "Everyday life is infused with fashion, which is constantly evolving to suit various occasions. Even the impending change in clothing is visible. Clothes allow you to see and feel everything.Avoid following trends. Don't let fashion define who you are or what you wish to convey; instead, use your appearance and lifestyle choices to reflect who you are.",
+        "category_discription_two": "Lakshmi silks provide one of the best combo available on market at an affordable price.It will be an outstanding shopping experiance for all age group",
+        "bg": "background.jpg",
+        "bg_1": "ct_bg_1.jpg",
+        "bg_2": "ct_bg_2.jpg",
+        "bg_3": "bge3.jpg",
+        "bg_4": "bge4.jpg",
+        "clr_1": "rgb(234 172 172)",
+        "clr_2": "rgb(234 172 172)",
+        "clr_3": "#6c6888",
+        "clr_4": "rgb(49 48 60)",
+        "pclr": "black",
+        "bg_clr_1": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(151,135,234,1) 35%)",
+        "bg_clr_2": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,222,135,1) 35%)",
+        "bg_clr_3": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,135,160,1) 35%)",
+        "bg_clr_4": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(135,234,232,1) 35%)"
+      },
+      {
+        "id": "4",
+        "category_name": "traditional-wear",
+        "name": "TRADITIONAL WEAR",
+        "category_image_1": "LS_PNG_07.png",
+        "category_image_2": "LS_PNG_06.png",
+        "category_image_3": "LS_PNG_05.png",
+        "category_image_4": "LS_PNG_04.png",
+        "category_discription": "Reverting to your culture and being authentic can be a wonderful thing at times.Traditional styles and looks are timeless and never go out of style.Wearing your traditional attire with pride is a great way to show your patriotism.I feel more at ease in the traditional attire than in jeans and tees. It's not outdated; rather, you simply don't know where your contemporary clothing originated.Sometimes a classic appearance combined with simplicity can be beautiful. Well, the newest fashion trend these days is classic. I've never felt more Indian. Perhaps as a result of this cultural attire the realisation that you don't need a lot to look beautiful. I'm not what I look. It's the classic, conventional style",
+        "category_discription_two": "Lakshmi silks provide one of the best combo available on market at an affordable price.It will be an outstanding shopping experiance for all age group",
+        "bg": "background.jpg",
+        "bg_1": "ct_bg_1.jpg",
+        "bg_2": "ct_bg_2.jpg",
+        "bg_3": "bge3.jpg",
+        "bg_4": "bge4.jpg",
+        "clr_1": "#d35568",
+        "clr_2": "#102f28",
+        "clr_3": "#6c6a89",
+        "clr_4": "#2e2e3b",
+        "pclr": "black",
+        "bg_clr_1": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(151,135,234,1) 35%)",
+        "bg_clr_2": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,222,135,1) 35%)",
+        "bg_clr_3": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(234,135,160,1) 35%)",
+        "bg_clr_4": "radial-gradient(circle, rgba(194,194,205,1) 0%, rgba(135,234,232,1) 35%)"
+      }
+    ],
+    "carousel_img": [
+      {
+        "id": 1,
+        "img": "carousel_1.jpg",
+        "mb_img": "carousel_1_mb.jpg"
+      },
+      {
+        "id": 2,
+        "img": "carousel_2.jpg",
+        "mb_img": "carousel_2_mb.jpg"
+      },
+      {
+        "id": 3,
+        "img": "carousel_3.jpg",
+        "mb_img": "carousel_3_mb.jpg"
+      },
+      {
+        "id": 4,
+        "img": "carousel_4.jpg",
+        "mb_img": "carousel_4_mb.jpg"
+      },
+      {
+        "id": 5,
+        "img": "carousel_5.jpg",
+        "mb_img": "carousel_5_mb.jpg"
+      },
+      {
+        "id": 6,
+        "img": "carousel_6.jpg",
+        "mb_img": "carousel_6_mb.jpg"
+      }
+    ]
+  }
+}
